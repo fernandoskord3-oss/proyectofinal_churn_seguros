@@ -1,5 +1,5 @@
 """
-Sistema Inteligente para la Predicción del Abandono de Clientes
+Desarrollo de un Sistema Inteligente para la Predicción del Abandono de Clientes mediante Técnicas de Machine Learning para la empresa XYZ
 Empresa hipotética de seguros de automóviles (datos simulados).
 
 Cómo se ejecuta:  streamlit run app.py
